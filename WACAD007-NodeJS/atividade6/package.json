@@ -1,0 +1,12 @@
+{
+    "name":"atividade6nodejs",
+    "version":"1.0.0",
+    "type" :"module",
+    "scripts": {
+        "start": "nodemon index.js dir",
+        "start:prod":"node index.js dir"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}

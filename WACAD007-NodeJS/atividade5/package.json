@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "nodemon index.js dir",
+        "start:prod":"node index.js dir"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}

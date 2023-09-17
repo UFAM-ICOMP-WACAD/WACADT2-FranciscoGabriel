@@ -1,0 +1,12 @@
+{
+    "name":"atividade7nodejs",
+    "version":"1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js main",
+        "start:prod": "node index.js main"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
